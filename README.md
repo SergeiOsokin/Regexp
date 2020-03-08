@@ -1,5 +1,5 @@
 Version 3
 
-Проектная работа 10
+Project work 10
 
 https://sergeiosokin.github.io/
