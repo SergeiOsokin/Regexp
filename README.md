@@ -1,5 +1,3 @@
-Version 3
+Одностраничный сайт-форма, с применением регулярных выражений для проверки введенных данных.
 
-Project work 10
-
-https://sergeiosokin.github.io/
+published at https://sergeiosokin.github.io/Regexp/
